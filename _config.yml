@@ -1,5 +1,5 @@
 # Site settings
-url: "http://umang.github.io"
+url: "http://umang999.github.io"
 title: "{ Umang Parmar }"
 description: "Personal website and blog of Umang Parmar, blogging mainly for tech."
 keywords: "umang, parmar, developer, personal, blog"
@@ -41,7 +41,7 @@ social:
   - title: "github"
     url: "https://github.com/Umang999"
 
-404-img: "/img/labtocat.png"
+404-img: "/img/404.png"
 
 # Exclusion list from the generated _site
 exclude: ["Rakefile", "LICENSE", "info.mk", "vendor"]
